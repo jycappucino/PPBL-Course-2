@@ -57,8 +57,8 @@ As an example, one way to produce a different PolicyID would be to use the the t
 ```
 This is one example of how to use the same wallet to produce a different policyID
 
-#### 3. Boutny Tokens
-Lastly ,we also need to mint some bounty tokens. These will be fungible tokens given along with Ada for completing a bounty:
+#### 3. Bounty Tokens
+Lastly, we also need to mint some bounty tokens. These will be fungible tokens given along with Ada for completing a bounty:
 - We could use tGimbals for this. These can be obtained from the faucet acessible through the [ppbl-front-end-template](https://gitlab.com/gimbalabs/plutus-pbl-summer-2022/ppbl-front-end-template)
 - Another option would be to use a simple, signature only policy script like this one:
 ```
@@ -70,7 +70,7 @@ Lastly ,we also need to mint some bounty tokens. These will be fungible tokens g
 
 ### Minting Tokens
 
-To mint these tokens, you hae a few options
+To mint these tokens, you have a few options:
 
 #### 1. Mint the tokens manually
 - By this point in the course you should be capable of creating all of these tokens using the `cardano-cli`
